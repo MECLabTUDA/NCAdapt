@@ -35,7 +35,7 @@ The simplest way to install all dependencies is by using [Anaconda](https://cond
 
 ## How to get started?
 - Since all U-Net and NCAdapt baselines are implemented in this Framework, all models are trained in the same fashion.
-- The easiest way to start is using our `train_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_*.py` python files, located in several script folders [like this one](https://github.com/MECLabTUDA/NCAdapt/tree/main/scr/scripts).
+- The easiest way to start is using our `train_*.py` python files. For every baseline and Continual Learning method, we provide specific `train_*.py` python files, located in several script folders [like this one](https://github.com/MECLabTUDA/NCAdapt/tree/main/src/scripts).
 - The [eval folder](https://github.com/MECLabTUDA/NCAdapt/tree/main/eval) contains a jupyter notebooks that was used to calculate performance metrics and plots used in our submission.
 
 
