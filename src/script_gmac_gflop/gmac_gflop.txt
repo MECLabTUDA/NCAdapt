@@ -1,0 +1,42 @@
+TransU-Net SEQ:
+Computational complexity: 2.02 GMac
+Computational complexity: 4.04 GFlops
+Number of parameters: 105.14 M
+
+TransU-Net RWALK:
+Computational complexity: 2.02 GMac
+Computational complexity: 4.04 GFlops
+Number of parameters: 105.14 M
+
+TransU-Net EWC:
+Computational complexity: 2.02 GMac
+Computational complexity: 4.04 GFlops
+Number of parameters: 105.14 M
+
+--------------------------------------------------------
+nnU-Net SEQ:
+
+nnU-Net RWALK:
+
+nnU-Net EWC:
+
+--------------------------------------------------------
+NCAdapt:
+Computational complexity: 379991332.17 GMac
+Computational complexity: 759982664.34 GFlops
+Number of parameters: 6.34 k
+
+NCA SEQ:
+Computational complexity: 379991326.78 GMac
+Computational complexity: 759982653.56 GFlops
+Number of parameters: 12.48 k
+
+NCA RWALK:
+Computational complexity: 379991326.78 GMac
+Computational complexity: 759982653.56 GFlops
+Number of parameters: 12.48 k
+
+NCA EWC:
+Computational complexity: 379991326.78 GMac
+Computational complexity: 759982653.56 GFlops
+Number of parameters: 12.48 k
